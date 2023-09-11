@@ -1,0 +1,25 @@
+{
+    "Autosearch": {
+        "Enabled": false,
+        "Key": ""
+    },
+    "Webhook": {
+        "Enabled": false,
+        "Url": ""
+    },
+    "Buy_cookies": [
+        ""
+    ],
+    "Check_cookie": "",
+    "Items": [],
+    "Discord": {
+        "Enabled": false,
+        "Prefix": "!",
+        "Token": "",
+        "Owner_id": []
+    },
+    "Misc": {
+        "Hide_Online_Users": false,
+        "Hide_Paid_Users": false
+    }
+}
