@@ -1,7 +1,8 @@
 {
     "Autosearch": {
         "Enabled": false,
-        "Key": ""
+        "Key": "",
+        "Get_old_bundles": false
     },
     "Webhook": {
         "Enabled": false,
