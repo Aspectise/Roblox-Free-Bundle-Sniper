@@ -4,6 +4,13 @@
         "Key": "",
         "Get_old_bundles": false
     },
+    "Autorestarter": {
+        "Enabled": false,
+        "Minutes": 5
+    },
+    "Blacklist": {
+        "Names": ["blacklist1", "blacklist2"]
+    },
     "Webhook": {
         "Enabled": false,
         "Url": ""
