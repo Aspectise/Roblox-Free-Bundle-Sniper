@@ -1,7 +1,7 @@
 # Roblox-Free-Bundle-Sniper
 
 ### Features:
-- [x] - **Checks 50+ bundles at once**
+- [x] - **Checks 100+ bundles at once**
 - [x] - **Autosearch (paid)**
 - [x] - **Buys every old free bundles** 
 
