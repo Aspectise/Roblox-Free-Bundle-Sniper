@@ -1,8 +1,7 @@
 {
     "Autosearch": {
         "Enabled": false,
-        "Key": "",
-        "Get_old_bundles": false
+        "Key": ""
     },
     "Autorestarter": {
         "Enabled": false,
