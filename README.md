@@ -1,3 +1,6 @@
+# [⛔PATCHED⛔]
+Roblox disabled free bundle making so this is useless now
+
 # Roblox-Free-Bundle-Sniper
 
 ### Features:
